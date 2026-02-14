@@ -1,6 +1,6 @@
 package S.Repository;
 
-import S.User;
+import S.Models.User;
 
 public class UserRepository {
     public void save(User user) {

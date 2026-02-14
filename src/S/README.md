@@ -133,10 +133,10 @@ public class EmailService {
 ## 🚀 Como Usar
 
 ```java
-public class Main {
+public class S.Main {
     public static void main(String[] args) {
         // 1. Criar o usuário
-        User user = new User("João Silva", "joao@email.com");
+        User user = new User("Cristian Silva", "cristian@email.com");
         
         // 2. Salvar no banco de dados
         UserRepository repository = new UserRepository();

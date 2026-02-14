@@ -1,6 +1,6 @@
 package S.Service;
 
-import S.User;
+import S.Models.User;
 
 public class EmailService {
 
